@@ -13,7 +13,11 @@ Ví dụ với đồ thị này:
 ![Graph](Graph.png)
 
 Ở đây sau khi chạy code ta sẽ được:
+
 DFS: 0 3 6 1 5 9 2 7 4 8
+
 BFS: 0 3 4 5 7 6 9 8 1 2
+
 Tất nhiên sẽ theo thứ tự đầu vào của input, cạnh nào vào trước thì đỉnh kề ấy sẽ vào trước và khi duyệt sẽ được duyệt trước.
+
 Hết.
