@@ -9,7 +9,9 @@ II. Phần output gồm 2 dòng:
 
 Ở đây mình làm ví dụ trên đồ thị vô hướng , nếu là đồ thị có hướng thì đã có note trong phần code.
 Ví dụ với đồ thị này:
+
 ![Graph](Graph.png)
+
 Ở đây sau khi chạy code ta sẽ được:
 DFS: 0 3 6 1 5 9 2 7 4 8
 BFS: 0 3 4 5 7 6 9 8 1 2
