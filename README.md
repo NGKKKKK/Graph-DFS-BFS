@@ -12,7 +12,7 @@ II. Phần output gồm 2 dòng:
 Ví dụ với đồ thị này:
 
 <p align="center">
-  <img src="Graph.png" alt="Graph" width="100"/>
+  <img src="Graph.png" alt="Graph" width="500"/>
 </p>
 
 Ở đây sau khi chạy code ta sẽ được:
