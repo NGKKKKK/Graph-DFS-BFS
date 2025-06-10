@@ -11,7 +11,9 @@ II. Phần output gồm 2 dòng:
 Ở đây mình làm ví dụ trên đồ thị vô hướng , nếu là đồ thị có hướng thì đã có note trong phần code.
 Ví dụ với đồ thị này:
 
-![Graph](Graph.png)
+<div align="center">
+  ![Graph](Graph.png)
+</div>
 
 Ở đây sau khi chạy code ta sẽ được:
 
