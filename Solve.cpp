@@ -50,7 +50,7 @@ void Visit(Vertex* v){
     }
 }
 
-void DFS(vector<Vertex*>& Graph){
+void DFS(const vector<Vertex*>& Graph){
     if (Graph.empty()) return;
     cout << "DFS: ";
     for (Vertex* v : Graph){
@@ -59,7 +59,7 @@ void DFS(vector<Vertex*>& Graph){
     cout << endl;
 }
 
-void BFS(vector<Vertex*>& Graph){
+void BFS(const vector<Vertex*>& Graph){
     if (Graph.empty()) return;
     cout << "BFS: ";
     queue<Vertex*> que;
