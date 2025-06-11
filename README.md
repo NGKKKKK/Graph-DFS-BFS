@@ -1,8 +1,8 @@
 Duyệt đồ thị/tìm cây bằng BFS, DFS trên đồ thị.
 
 I. Phần input sẽ để ở "INPUT.txt", định dạng input như sau:
-1. Dòng đầu chứa 2 số nguyên n,m (0 < n < ???, 0 <= m <= C^2_n).
-2. m dòng sau, mỗi dòng 2 chứa 2 số nguyên phân biệt x,y cách nhau bởi dấu cách (0<= x,y <= n-1) biểu diễn cạnh x->y.
+1. Dòng đầu chứa 2 số nguyên n,m cách nhau bởi dấu cách (0 < n < ???, 0 <= m <= C^2_n).
+2. m dòng sau, mỗi dòng chứa 2 số nguyên phân biệt x,y cách nhau bởi dấu cách (0<= x,y <= n-1) biểu diễn cạnh x->y.
 
 II. Phần output gồm 2 dòng:
 1. Dòng 1: DFS : thứ tự duyệt đỉnh của đồ thị bằng DFS (thứ tự từ trái qua phải).
