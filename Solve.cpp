@@ -38,6 +38,8 @@ class Vertex{
         }
 };
 
+//Rest Graph
+
 void resetGraph(vector<Vertex*>& Graph){
     for (Vertex* v : Graph) v->setVisit(false);
 }
